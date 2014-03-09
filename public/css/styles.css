@@ -1,0 +1,19 @@
+@font-face {
+	font-family: transitoria;
+	src: url('fonts/transitoria/Transitoria.otf');
+}
+
+body { 
+	background: black; 
+	color: white; 
+	padding-top: 70px; 
+}
+
+h1,h2,h3,h4,h5,h6 { 
+	font-weight:normal; 
+}
+
+#libretto-content {
+	display: block;
+	margin-top: 20px;
+}
